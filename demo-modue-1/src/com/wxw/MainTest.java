@@ -5,6 +5,7 @@ public class MainTest {
         System.out.println("wxwwxxx");
         System.out.println("zhendetijiao");
         System.out.println(1);
+        System.out.println();
         System.out.println("hello main");
     }
 }
